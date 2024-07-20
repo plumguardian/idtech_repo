@@ -172,3 +172,5 @@ recognition/*.png
 # Other
 data/
 data.zip
+example_image.png
+*.whl
