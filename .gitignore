@@ -171,6 +171,7 @@ recognition/*.png
 
 # Other
 data/
+MNIST/
 data.zip
 example_image.png
 *.whl
