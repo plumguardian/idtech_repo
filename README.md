@@ -1,7 +1,7 @@
 # Progress
 - [ ] Video
 - [x] Train
-- [ ] Load
+- [ ] Load (data ranges from 0-433 instead of 0-1)
 - [ ] Convert to .py for easy import (make sure to use if __name__ == __main__)
 - [ ] Does roboto font need credit?
 
